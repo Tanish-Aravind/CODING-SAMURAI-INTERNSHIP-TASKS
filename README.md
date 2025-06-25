@@ -104,8 +104,8 @@ A walkthrough video explaining the tasks and my approach will be added soon and 
 Contact
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tanish-aravind-25b100321/)  
-- GitHub: [Your GitHub Profile](https://github.com/your-username)  
-- Email: your.email@example.com
+- GitHub: [Your GitHub Profile](https://github.com/Tanish-Aravind)  
+- Email: tanish.aravind7@gmail.com
 
 ---
 
